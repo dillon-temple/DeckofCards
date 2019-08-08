@@ -1,0 +1,11 @@
+/Users/momo/Desktop/DeckCards/bin/Debug/netcoreapp2.2/DeckCards.deps.json
+/Users/momo/Desktop/DeckCards/bin/Debug/netcoreapp2.2/DeckCards.runtimeconfig.json
+/Users/momo/Desktop/DeckCards/bin/Debug/netcoreapp2.2/DeckCards.runtimeconfig.dev.json
+/Users/momo/Desktop/DeckCards/bin/Debug/netcoreapp2.2/DeckCards.dll
+/Users/momo/Desktop/DeckCards/bin/Debug/netcoreapp2.2/DeckCards.pdb
+/Users/momo/Desktop/DeckCards/obj/Debug/netcoreapp2.2/DeckCards.csprojAssemblyReference.cache
+/Users/momo/Desktop/DeckCards/obj/Debug/netcoreapp2.2/DeckCards.csproj.CoreCompileInputs.cache
+/Users/momo/Desktop/DeckCards/obj/Debug/netcoreapp2.2/DeckCards.AssemblyInfoInputs.cache
+/Users/momo/Desktop/DeckCards/obj/Debug/netcoreapp2.2/DeckCards.AssemblyInfo.cs
+/Users/momo/Desktop/DeckCards/obj/Debug/netcoreapp2.2/DeckCards.dll
+/Users/momo/Desktop/DeckCards/obj/Debug/netcoreapp2.2/DeckCards.pdb
